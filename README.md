@@ -31,6 +31,7 @@
 curl --insecure -X PURGE <camo url>
 -->
 
+<!--
 - 👋 Hi, I’m @KrisnaDana
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
