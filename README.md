@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krisna-dana-249555251) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisnaDana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KrisnaDana&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KrisnaDana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--
