@@ -30,7 +30,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 <!-- Fix Bug Camo command:
 curl --insecure -X PURGE <camo url>
 -->
