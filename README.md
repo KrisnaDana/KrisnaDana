@@ -19,8 +19,8 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# 👀 Profile Views
-![](https://count.getloli.com/get/@KrisnaDana.github.readme)
+<!-- # 👀 Profile Views
+![](https://count.getloli.com/get/@KrisnaDana.github.readme) -->
 
 <!--
 ### 😂 Random Dev Meme
